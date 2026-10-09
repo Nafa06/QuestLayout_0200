@@ -13,7 +13,6 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.CheckboxDefaults.colors
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -57,7 +56,7 @@ fun ActivitasPertama(modifier: Modifier) {
                 Image(
                     painter = gambar,
                     contentDescription = null,
-                    modifier = Modifier.size(100.dp).padding(5.dp))
+                    modifier = Modifier.size(100.dp).padding(5.dp)
                 )
                 Spacer(modifier = Modifier.width(30.dp))
                 Column() {
