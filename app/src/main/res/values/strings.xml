@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pertemuan4</string>
+    <string name="prodi">Pertemuan4</string>
+    <string name="univ">Pertemuan4</string>
+    <string name="nama">Pertemuan4</string>
+    <string name="alamat">Pertemuan4</string>
+    <string name="copy">Pertemuan4</string>
 </resources>
